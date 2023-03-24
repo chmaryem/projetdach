@@ -1,0 +1,21 @@
+.calendar-container>div{
+    
+    height: 100%;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+   
+   
+}
+.fc-event{
+    background: var(--orange-gradient)!important;
+    color: black;
+}
+.fc .fc-timegrid-slot{
+    height: 2.5rem!important;
+    color: black;
+}
+td{
+    border : 1px solid var(--grey)!important
+}
