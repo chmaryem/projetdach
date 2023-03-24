@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/projetdach.git/static/css/main.194de714.css",
+    "main.js": "/projetdach.git/static/js/main.968a037c.js",
+    "static/media/img1.png": "/projetdach.git/static/media/img1.a0fca9c51749c1ee3db5.png",
+    "static/media/img2.png": "/projetdach.git/static/media/img2.f5f922c9b93eaf2c4065.png",
+    "static/media/img3.png": "/projetdach.git/static/media/img3.6b1484548ee065fd59b5.png",
+    "index.html": "/projetdach.git/index.html",
+    "main.194de714.css.map": "/projetdach.git/static/css/main.194de714.css.map",
+    "main.968a037c.js.map": "/projetdach.git/static/js/main.968a037c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.194de714.css",
+    "static/js/main.968a037c.js"
+  ]
+}
